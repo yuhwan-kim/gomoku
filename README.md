@@ -6,3 +6,5 @@ This project is done with **Python**
 ## How to Start the Game
 Two players can start the game by one of the player writing **x y coordinates**
 The game will continue by players taking turns and placing **Go pieces**
+## How to Win a Game
+One of the players win when their own Go pieces are placed 5 in a row in any directions.
