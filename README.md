@@ -1,6 +1,7 @@
 # Gomoku
 ## Introduction
 This project is done with **Python**
+Should have **numpy** module to start
 
 **Gomoku** is an abstract strategy board game
 ## How to Start the Game
